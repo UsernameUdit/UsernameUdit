@@ -1,1 +1,7 @@
-I am a 17 year old Pythoncel whose life depends on dependencies and memory on a garbage collector 🐍
+18, Noob Alchemist
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp" />
+  </a>
+</p>
